@@ -19,3 +19,4 @@ prediction = model.predict(test_data)
  
 
 print(f"Predicted price: {prediction[0]}")
+
